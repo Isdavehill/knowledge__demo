@@ -1,7 +1,7 @@
 import Header from "./partials/Header";
 import Footer from "./partials/Footer";
 
-function Layout(children) {
+function Layout({children}) {
   return (
     <>
       <Header />
