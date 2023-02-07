@@ -47,10 +47,28 @@ a:hover:not(.logo) {
   padding: var(--size-3);
 }
 
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
 .site-footer {
   display: flex;
   font-size: 0.8rem;
   justify-content: space-between;
   align-items: center;
   padding: var(--size-3);
+}
+
+.heart {
+  color: var(--red-7);
+}
+
+
+.primary-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--size-3);
+  list-style: none;
+  padding-inline: var(--size-3);
 }
