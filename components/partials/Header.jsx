@@ -1,8 +1,8 @@
 
 function Header () {
   return (
-    <header>
-      <h1>Knowledge Demonstration</h1>
+    <header className="site-header">
+      <a href="/" className="logo">Knowledge Demonstration</a>
     </header>
   )
 }
