@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Isdavehill/knowledge__demo/issues"
   },
-  "homepage": "https://github.com/Isdavehill/knowledge__demo#readme"
+  "homepage": "https://github.com/Isdavehill/knowledge__demo#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
