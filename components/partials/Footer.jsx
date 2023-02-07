@@ -5,6 +5,6 @@ function Footer() {
         <div className="container">
     </footer>
     );
-    }
+}
 
 export default Footer;
